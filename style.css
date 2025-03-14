@@ -4,3 +4,8 @@ background-repeat: no-repeat;
 background-size: auto;
 
 }
+.produto-container {
+    display:flex;
+    width: 100%;
+    justify-content: space-around;
+}
